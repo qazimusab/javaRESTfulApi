@@ -1,0 +1,1 @@
+create table users( name varchar(50) primary key ,email varchar(50))
